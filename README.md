@@ -1,13 +1,14 @@
-Phishing Awareness Training
-🎯 Objective
+### Phishing Awareness Training
+ 
+ ### 🎯 Objective
 
 This task focuses on creating a presentation or awareness module to educate users about phishing attacks, how to identify them, and how to avoid becoming a victim.
 
-📖 Overview
+### 📖 Overview
 
 Phishing is one of the most common cyber threats where attackers trick users into revealing sensitive information (passwords, banking details, etc.).
 
-This training module covers:
+### This training module covers:
 
 How phishing works
 
@@ -19,7 +20,7 @@ Best practices to stay safe
 
 Real-world examples and quizzes for awareness
 
-📝 Steps to Complete
+### 📝 Steps to Complete
 1. Create a Presentation
 
 Use PowerPoint, Google Slides, or Canva
@@ -30,7 +31,7 @@ Title: Phishing Awareness Training
 
 Recommended slide flow:
 
-Title Slide
+### Title Slide
 
 Introduction to Phishing
 
@@ -50,17 +51,8 @@ Quiz Section
 
 Conclusion
 
-3. Insert Images & Examples
 
-Fake phishing emails
-
-Fake website screenshots
-
-Icons (fear, urgency, greed, curiosity)
-
-✅/❌ indicators for best practices
-
-4. Add Interactive Quiz
+###  Add Interactive Quiz
 
 Options:
 
@@ -76,15 +68,6 @@ Screenshots / Examples of phishing emails & websites
 
 Interactive quiz link (optional)
 
-📷 Sample Slides (Ideas)
-
-Slide 1: Phishing Awareness Training – Your Name
-
-Slide 4: Fake email screenshot with highlighted suspicious parts
-
-Slide 5: Real vs Fake website comparison
-
-Slide 8: Best practices (with ✅ icons)
 
 ✅ Expected Outcome
 
